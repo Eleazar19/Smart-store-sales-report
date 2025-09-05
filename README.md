@@ -14,7 +14,7 @@ This analysis enables executives to track and evaluate performance across branch
 
 ## Tools and Methodology:
 
-Power Query in Excel : Used for carrying out necessary ETL processes ranging from cleaning, removing duplicates, and data validation.
+Power Query in Excel: Used for carrying out necessary ETL processes, ranging from cleaning, removing duplicates, and data validation.
 
 Excel: Used for further analysis and Visualization.
 
